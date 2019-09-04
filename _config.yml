@@ -1,0 +1,10 @@
+title: Merkez ül îcâdât
+description: Our hackerspace
+theme: jekyll-theme-architect
+google_analytics: [UA-108374030-1]
+url: 'https://merkez-ul-icadat.github.io'
+github_username: merkez-ul-icadat
+github: [metadata]
+show_downloads: false
+plugins:
+  - jekyll-sitemap
