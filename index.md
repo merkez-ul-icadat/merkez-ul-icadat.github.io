@@ -1,7 +1,7 @@
 [Edit this](https://github.com/merkez-ul-icadat/merkez-ul-icadat.github.io)  
 
 ![TTGO T-Watch](img/TTGO_T-Watch.jpeg)  
-#esp32 #wifi #bluetooth #gps #lora  
+[#esp32](https://twitter.com/search?q=%23esp32) [#wifi](https://twitter.com/search?q=%23wifi) [#bluetooth](https://twitter.com/search?q=%23bluetooth) [#gps](https://twitter.com/search?q=%23gps) [#lora](https://twitter.com/search?q=%23lora) [#thethingsnetwork](https://twitter.com/search?q=%23thethingsnetwork)    
 
 [TTGO-T-Watch](https://github.com/Xinyuan-LilyGO/TTGO-T-Watch)  
 [TTGO_TWatch_Library](https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library)  
