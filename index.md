@@ -30,9 +30,8 @@ Beginner guide:
 Step 1. Create a [GitHub](https://github.com/join) account and install GitHub Desktop.  
 Step 2. Clone [this](https://github.com/merkez-ul-icadat/merkez-ul-icadat.github.io) repo  
 Step 3. Install [Arduino](https://www.arduino.cc)  
-Step 4. Follow the guides from TTGO-T-Watch, TTGO_TWatch_Library and T-watch documentation.  
+Step 4. Follow the guides from TTGO_TWatch_Library and T-watch documentation.  
 
 Expert guide:  
-Start a new ESP32 project, build with make or cmake.  
-Convert to Eclipse project.  
+Step x. The watch contains an ESP32, the toolchain is over [here](https://github.com/espressif/esp-idf)  
 Good luck !  
