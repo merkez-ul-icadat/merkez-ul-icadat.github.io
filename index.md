@@ -1,5 +1,5 @@
 # Merkez ül îcâdât
-[Edit this on GitHub](https://github.com/merkez-ul-icadat/merkez-ul-icadat.github.io)  
+[Edit this on GitHub](https://github.com/merkez-ul-icadat/merkez-ul-icadat.github.io) [Subscribe to newsletter](http://eepurl.com/gDn2cP)  
 As-salāmu ʿalaykum !  
 We started to write history on August 13th 2019.  
 
