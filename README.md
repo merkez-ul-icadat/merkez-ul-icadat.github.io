@@ -2,7 +2,7 @@
   
 We decided with our hackerspace to make software for the TTGO T-Watch.
 
-There will be 2 seperate projects. 1 in arduino and 1 in eclipse.
+There will be 2 seperate projects. 1 in arduino and 1 in eclipse.  
 [AdvancedWatch](https://github.com/merkez-ul-icadat/AdvancedWatch)  
 [SimpleWatch](https://github.com/merkez-ul-icadat/SimpleWatch)  
 
