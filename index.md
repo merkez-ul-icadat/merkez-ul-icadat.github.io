@@ -1,5 +1,15 @@
 # Merkez ül îcâdât
-[Edit this on GitHub](https://github.com/merkez-ul-icadat/merkez-ul-icadat.github.io) [Subscribe to newsletter](http://eepurl.com/gDn2cP)  
+
+<h4 align="center">
+<a href="https://github.com/merkez-ul-icadat/merkez-ul-icadat.github.io">GitHub </a> &middot; 
+<a href="http://eepurl.com/gDn2cP">Newsletter</a> &middot; 
+<a href="https://github.com/merkez-ul-icadat/AdvancedWatch">Advanced watch</a> &middot; 
+<a href="https://github.com/merkez-ul-icadat/SimpleWatch">Simple watch</a> &middot; 
+<a href="https://github.com/merkez-ul-icadat/github-pages-gallery"> Photo gallery</a>   
+</h4>
+
+---
+
 As-salāmu ʿalaykum !  
 We started to write history on August 13th 2019.  
 
@@ -24,14 +34,7 @@ Interesting links:
 [LILYGO®](http://www.lilygo.cn/)    
 [TTGO_TWatch_Library](https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library)  
 [T-watch documentation](https://t-watch-document-en.readthedocs.io/en/latest/index.html)  
-[Aliexpress](https://www.aliexpress.com/item/33038999162.html?spm=a2g0s.8937460.0.0.1e452e0eNhD7k4) Order link from Aliexpress. Please order the "GPS and LoRa" version.  
+[Aliexpress](https://www.aliexpress.com/item/33038999162.html?spm=a2g0s.8937460.0.0.1e452e0eNhD7k4) 
+Order link from Aliexpress. Please order the "GPS and LoRa" version.  
 
-Beginner guide:  
-Step 1. Create a [GitHub](https://github.com/join) account and install GitHub Desktop.  
-Step 2. Clone [this](https://github.com/merkez-ul-icadat/merkez-ul-icadat.github.io) repo  
-Step 3. Install [Arduino](https://www.arduino.cc)  
-Step 4. Follow the guides from TTGO_TWatch_Library and T-watch documentation.  
-
-Expert guide:  
-Step x. The watch contains an ESP32, the toolchain is over [here](https://github.com/espressif/esp-idf)  
 Good luck !  
