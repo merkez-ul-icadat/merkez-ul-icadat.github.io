@@ -5,7 +5,7 @@
 <a href="http://eepurl.com/gDn2cP">Newsletter</a> &middot; 
 <a href="https://github.com/merkez-ul-icadat/AdvancedWatch">Advanced watch</a> &middot; 
 <a href="https://github.com/merkez-ul-icadat/SimpleWatch">Simple watch</a> &middot; 
-<a href="https://github.com/merkez-ul-icadat/github-pages-gallery"> Photo gallery</a>   
+<a href="gallery"> Photo gallery</a>   
 </h4>
 
 ---
