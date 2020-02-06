@@ -37,4 +37,6 @@ Interesting links:
 [Aliexpress](https://www.aliexpress.com/item/33038999162.html?spm=a2g0s.8937460.0.0.1e452e0eNhD7k4) 
 Order link from Aliexpress. Please order the "GPS and LoRa" version.  
 
+## The Things Indoor Gateway
+![TTN Gateway map](https://ttnmapper.org/gateways/?gateway=eui-58a0cbfffe800d52&startdate=&enddate=&gateways=on&lines=on&points=on)
 Good luck !  
