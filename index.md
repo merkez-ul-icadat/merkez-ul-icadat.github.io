@@ -1,3 +1,5 @@
+![Logo](apple-icon-precomposed.png)  
+
 # Merkez ül îcâdât
 
 <h4 align="center">
