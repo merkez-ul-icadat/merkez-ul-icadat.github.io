@@ -1,9 +1,10 @@
-![Logo](apple-icon-precomposed.png)  
+# Merkez ül îcâdât
+
 <h4 align="center">
-<a href="https://github.com/merkez-ul-icadat/merkez-ul-icadat.github.io">GitHub </a> &middot; 
-<a href="http://eepurl.com/gDn2cP">Newsletter</a> &middot; 
-<a href="https://github.com/merkez-ul-icadat/AdvancedWatch">Advanced watch</a> &middot; 
-<a href="https://github.com/merkez-ul-icadat/SimpleWatch">Simple watch</a> &middot; 
+<a href="https://github.com/merkez-ul-icadat/merkez-ul-icadat.github.io">GitHub </a> &middot;
+<a href="http://eepurl.com/gDn2cP">Newsletter</a> &middot;
+<a href="https://github.com/merkez-ul-icadat/AdvancedWatch">Advanced watch</a> &middot;
+<a href="https://github.com/merkez-ul-icadat/SimpleWatch">Simple watch</a> &middot;
 <a href="gallery"> Photo gallery</a>   
 </h4>
 
@@ -17,14 +18,6 @@ If you want to visit us, you have to contact one of us.
 - Inanc
 - Mohamed
 
-Interesting links:  
-[https://hackerspaces.nl](https://hackerspaces.nl)  
-[https://hackerspaces.org](https://hackerspaces.org)  
-[https://blog.adafruit.com/2012/11/12/how-to-start-a-hackerspace/](https://blog.adafruit.com/2012/11/12/how-to-start-a-hackerspace/)  
-[https://makezine.com/2012/08/07/how-to-create-a-hackerspace/](https://makezine.com/2012/08/07/how-to-create-a-hackerspace/
-)  
-[https://hackerspace.design](https://hackerspace.design)  
-
 # Projects
 ## TTGO by LILYGO® T-Watch
 ![TTGO T-Watch](img/TTGO_T-Watch.jpeg)  
@@ -33,14 +26,8 @@ Interesting links:
 [LILYGO®](http://www.lilygo.cn/)    
 [TTGO_TWatch_Library](https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library)  
 [T-watch documentation](https://t-watch-document-en.readthedocs.io/en/latest/index.html)  
-[Aliexpress](https://www.aliexpress.com/item/33038999162.html?spm=a2g0s.8937460.0.0.1e452e0eNhD7k4) 
+[Aliexpress](https://www.aliexpress.com/item/33038999162.html?spm=a2g0s.8937460.0.0.1e452e0eNhD7k4)
 Order link from Aliexpress. Please order the "GPS and LoRa" version.  
 
 ## The Things Indoor Gateway
-[TTN Gateway map](https://ttnmapper.org/gateways/?gateway=eui-58a0cbfffe800d52&startdate=&enddate=&gateways=on&lines=on&points=on). 
-  
-  
-  
-  
-  
-
+[TTN Gateway map](https://ttnmapper.org/colour-radar/?gateway[]=58A0CBFFFE800D52).
