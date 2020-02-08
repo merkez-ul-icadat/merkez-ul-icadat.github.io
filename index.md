@@ -1,7 +1,4 @@
 ![Logo](apple-icon-precomposed.png)  
-
-# Merkez ül îcâdât
-
 <h4 align="center">
 <a href="https://github.com/merkez-ul-icadat/merkez-ul-icadat.github.io">GitHub </a> &middot; 
 <a href="http://eepurl.com/gDn2cP">Newsletter</a> &middot; 
