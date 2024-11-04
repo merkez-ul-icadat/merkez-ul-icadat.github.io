@@ -2,7 +2,6 @@
 
 <h4 align="center">
 <a href="https://github.com/merkez-ul-icadat/merkez-ul-icadat.github.io">GitHub </a> &middot;
-<a href="http://eepurl.com/gDn2cP">Newsletter</a> &middot;
 <a href="https://github.com/merkez-ul-icadat/AdvancedWatch">Advanced watch</a> &middot;
 <a href="https://github.com/merkez-ul-icadat/SimpleWatch">Simple watch</a> &middot;
 <a href="gallery"> Photo gallery</a>   
